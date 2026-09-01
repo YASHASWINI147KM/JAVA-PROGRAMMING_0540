@@ -10,4 +10,4 @@ public class UserInputExample {
         System.out.println("You are " + age + " years old.");
         scanner.close(); 
     }
-}
+} 
